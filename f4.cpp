@@ -2,7 +2,7 @@
 using namespace std;
  
 main() {
-   int a = 21;
+   int a = 12; // value of a is changed
    int c ;
  
    // Value of a will not be increased before assignment.
